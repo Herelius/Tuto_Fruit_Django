@@ -4,8 +4,8 @@ Projet tutoriel sur l'utilisation de Django 5.1
 
 # Dépendances
 
-[Bootstrap](https://getbootstrap.com/)
-[Django](https://www.djangoproject.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Django](https://www.djangoproject.com/)
 
 # Installation
 
